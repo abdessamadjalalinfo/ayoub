@@ -36,7 +36,7 @@
     
     <div class="container">
   <div class="py-5 text-center">
-    <img class="d-block mx-auto mb-4" src="img/capture.png" alt="" >
+    <img class="d-block mx-auto mb-4" src="{{asset('img/capture.png')}}" alt="" >
     
     <div class="alert alert-success" role="alert">
      
@@ -50,7 +50,7 @@
   <div class="row">
     
     <div class="col-md-5 order-md-2 mb-4">
-        <img class="col-md-12"src="img/pp.png" alt="" >
+        <img class="col-md-12"src="{{asset('img/pp.png')}}" alt="" >
       <h5 style=' font-size: 15px;' class="alert alert-success" >TROUVER UNE ASSURANCE AUTO APRÈS RÉSILIATION !</h5>
       <p style=' font-size: 10px;'>De nombreux conducteur se trouvent résiliés à l’initiative de leur compagnie d’assurance et trouvent des difficultés pour souscrire une nouvelle compagnie d’assurance. En effet, il existe plusieurs raisons qui peuvent pousser une compagnie d’assurance à résilier l’assurance d’un de ses clients. Notamment le non paiement des redevances et de la prime d’assurance, le cumul des accidents, qu’ils soient responsables ou pas et l’incident de permis pour excès de vitesse, pour alcool au volant et plusieurs autres raisons. Ces situations transforment l’assuré qui est en principe un client, en un assuré à risque. Les compagnies d’assurance auto font un tri annuel des clients « fidèles » et les gardent, tandis que les clients dénommés « à risque » sont séparés de la compagnie. Dans cette situation, l’assuré résilié va avoir du mal à s’assurer de nouveau, car les autres assureurs le considèreront également comme un assuré à risques. Soit les assureurs refuseront de le couvrir, soit ils lui feront payer le prix fort.0</p>
       <h6 style=' font-size: 15px;' class="alert alert-success" >NOUS AVONS LA SOLUTION POUR VOUS !</h6>
